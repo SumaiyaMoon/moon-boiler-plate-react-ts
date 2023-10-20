@@ -13,7 +13,6 @@ export default function Home() {
             <Typography className="py-2" variant="h2">
               Boiler Plate
             </Typography>
-
             <div className="d-flex align-items-center justify-content-center gap-2 m-2 ">
               <SMButton
                 onClick={() => {
